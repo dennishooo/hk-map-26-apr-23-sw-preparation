@@ -15,3 +15,11 @@
 ## Day 2
 
 - intermediate javascript concept (references vs values, deep copy vs shallow copy, array method)
+
+## Common mistakes
+
+- wrong directory
+
+- save the file
+
+- node <program_name>
