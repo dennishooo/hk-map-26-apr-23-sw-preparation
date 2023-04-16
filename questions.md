@@ -111,3 +111,11 @@ Michael's guess the number (1-6): 5
 The result is: 5
 The scores: Alex (0), Gordon (0), Michael (1)
 ```
+
+**Bonus**
+
+Can you obtain the data from the source and display them in your website using fetch api?
+
+https://data.gov.hk/tc-data/dataset/hk-td-tis_21-etakmb
+
+reference: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
